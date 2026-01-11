@@ -1,4 +1,4 @@
-# GestionareAdmitereFacultate
+## GestionareAdmitereFacultate
 Spring Boot Project
 
 ## Descriere

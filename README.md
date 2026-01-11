@@ -1,0 +1,2 @@
+# GestionareAdmitereFacultate
+Spring Boot Project

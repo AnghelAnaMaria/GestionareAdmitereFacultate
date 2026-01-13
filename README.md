@@ -20,5 +20,5 @@ Proiectul se ocupa de procesul de admitere, permițând gestionarea candidațilo
 1. **Gestionare candidați** – Adăugarea, modificarea, filrarea și vizualizarea candidaților în sistem.  
 2. **Gestionare examene** – Creare, modificarea, filrarea și vizualizarea în sistem. De asemena, agregarea numărului de candidați înscriși pentru fiecare examen.
 3. **Gestionarea notificarilor de la plati** - Creare, vizualizare
-4. **Gestionare plati" - Creare, vizualizare
-5. **Gesionare resurse examene" - Creare, filtrare.
+4. **Gestionare plati** - Creare, vizualizare
+5. **Gesionare resurse examene** - Creare, filtrare.

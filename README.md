@@ -6,11 +6,11 @@ Proiectul se ocupa de procesul de admitere, permițând gestionarea candidațilo
 
 ## Business Requirements
 1. Candidatul se poate înregistra în sistem cu datele personale.  
-2. Candidatul se poate înscrie la un singur examene.  
+2. Candidatul se poate înscrie la un singur examen.  
 3. Facultatea are resurse pentru fiecare examen programat.  
 4. Se poate calcula care este examenul cu cea mai mare competitie.
-5. Administratorul poate adăuga/modifica detalii despre examene.  
-6. Platile au notificari ce contin informatiile aferente.  
+5. Administratorul poate adăuga/modifica indirect detalii despre examene.  
+6. Platile au notificari ce contin informatii aferente.  
 7. Sistemul trimite notificări pentru fiecare plata.  
 8. Se poate genera raport cu lista de notificari.  
 9. Sistemul validează că un candidat nu se poate înscrie la doua examene.  

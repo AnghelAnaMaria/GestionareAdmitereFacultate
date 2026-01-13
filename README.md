@@ -8,7 +8,8 @@ Proiectul se ocupa de procesul de admitere, permițând gestionarea candidațilo
 1. Candidatul se poate înregistra în sistem cu datele personale la un singur examen.  
 2. Facultatea are resurse si detalii specifice pentru fiecare examen programat.  
 3. Se poate calcula care este examenul cu cea mai mare competitie.
-4. Administratorul poate adăuga/modifica indirect detalii despre examene.  
+4. Administratorul poate adăuga/modifica indirect detalii despre examene.
+5. Se pot selecta toti candidatii participanti la un examen.
 6. Se poate genera raport cu lista de notificari.  
 7. Sistemul poate gasi candidatii care nu au realizat plata.
 8. Platile au notificari ce contin informatii aferente.  
